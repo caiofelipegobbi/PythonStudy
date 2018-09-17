@@ -1,1 +1,1 @@
-# PythonStudy
+# Exercises to learn phyton
