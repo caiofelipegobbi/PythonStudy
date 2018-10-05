@@ -1,0 +1,1 @@
+# Programa que leia duas notas e calcule a média

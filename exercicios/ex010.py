@@ -1,0 +1,1 @@
+#Leia a quantidade de dinheiro que a pessoa tem na carteira e calcule quantos dolares ela poderia comprar
